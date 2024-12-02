@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { TiPencil } from "react-icons/ti";
 import { BsTrash } from "react-icons/bs";
 import { useTodo } from "./TodoContext";
